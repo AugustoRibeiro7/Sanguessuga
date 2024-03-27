@@ -9,7 +9,6 @@ Esse projeto será desenvolvido com as seguintes tecnologias:
 <b>FrontEnd</b> <br>
     -React<br><br>
 <b>BackEnd</b><br>
-    -Python<br>
-    -Fast API<br><br>
+    -Python<br><br>
 <b>Banco de Dados</b><br>
     -PostgreeSQL
